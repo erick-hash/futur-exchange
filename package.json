@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@google-cloud/api-gateway": "^1.2.1"
+  }
+}
